@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace VisualStudioWorkflow
 {
-    internal class Program
+    //A simple Program to help me familiarize with GitHub+VS workflow
+    class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.Read();
         }
     }
 }
