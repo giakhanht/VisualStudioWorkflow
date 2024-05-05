@@ -12,6 +12,7 @@ namespace VisualStudioWorkflow
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Modification to Pull in VS!");
             Console.Read();
         }
     }
